@@ -1,10 +1,13 @@
 {
-  "name": "acorn-node",
+  "name": "@staltz/acorn-node",
   "description": "the acorn javascript parser, preloaded with plugins for syntax parity with recent node versions",
   "version": "2.0.1",
   "author": "Renée Kooi <renee@kooi.me>",
   "bugs": {
-    "url": "https://github.com/browserify/acorn-node/issues"
+    "url": "https://github.com/staltz/acorn-node/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "dependencies": {
     "acorn": "^7.4.0",
@@ -24,7 +27,7 @@
     "standard": "^13.1.0",
     "tape": "^4.13.3"
   },
-  "homepage": "https://github.com/browserify/acorn-node",
+  "homepage": "https://github.com/staltz/acorn-node",
   "keywords": [
     "acorn",
     "browserify",
@@ -35,7 +38,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/browserify/acorn-node.git"
+    "url": "https://github.com/staltz/acorn-node.git"
   },
   "scripts": {
     "lint": "standard",
