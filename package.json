@@ -1,7 +1,7 @@
 {
   "name": "@staltz/acorn-node",
   "description": "the acorn javascript parser, preloaded with plugins for syntax parity with recent node versions",
-  "version": "2.0.1",
+  "version": "2.0.1-1",
   "author": "Renée Kooi <renee@kooi.me>",
   "bugs": {
     "url": "https://github.com/staltz/acorn-node/issues"
